@@ -44,13 +44,3 @@ Example scatter visualization shows how species become linearly separable in lea
 ## 📝 Notes
 - All work is implemented in `worksheet.ipynb`.
 - Dataset and tests were provided as part of CSCI 4050U — Machine Learning, Theory & Applications at Ontario Tech University.
-
----
-
-### 🎯 Next Step
-If you'd like, I can also:
-- **Auto-generate a `.gitignore`** tailored for PyTorch, Jupyter, and macOS
-- **Create a screenshot / plot section** if you want visuals in the README
-- **Turn the notebook into Python modules** for cleaner repo structure
-
-Just say: **"Add `.gitignore`"** or **"Clean module version"**.
