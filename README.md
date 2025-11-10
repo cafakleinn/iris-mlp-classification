@@ -12,11 +12,13 @@ This assignment explores supervised learning using the classic Iris dataset. The
 - Evaluate training performance using accuracy and loss curves
 
 ## 📂 Project Structure
+```
 ├── worksheet.ipynb # Main implementation and results
 ├── my_data/
 │ └── iris.csv # Dataset (if provided)
 ├── tests.json # Instructor-provided tests
 └── README.md
+```
 
 
 ## 🧠 Models Implemented
